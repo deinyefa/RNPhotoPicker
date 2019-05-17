@@ -5,7 +5,7 @@ React Native Photo Picker example built with Expo
 If you've never used expo, check out their [Installation Guide](https://docs.expo.io/versions/v32.0.0/introduction/installation/ "Expo CLI Installation Guide")
 
 ### Cloning this Repo
-* Clone the repo
+* Clone the repo or download the zip
 * yarn add to install all the dependencies
 * expo start
   * Run either the iOS simulator or 
